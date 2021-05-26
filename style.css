@@ -1,0 +1,41 @@
+#base{
+    width: 100vw;
+
+}
+#root{
+    width: 7cm;
+    position: relative;
+    bottom: 25cm;
+    left: 29cm;
+}
+#gif{
+    width: 15cm;
+}
+#t{
+    width: 4cm;
+    position: relative;
+    right: 7cm;
+    bottom: 30cm;
+    left: 10cm;
+}
+#Details{
+    position: relative;
+    bottom: 29.5cm;
+    height: 2cm;
+    padding: 0;
+    left: 13cm;
+    font-family: cursive;
+}
+.detail{
+    padding: 0%;
+    border: 0px;
+    font-size: 4.5mm;
+}
+   
+    
+    
+
+
+
+
+
